@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil Patrick 😁
 
  <div>
-   <a href="https://github.com/patrickmgsos">
+   <a align="center" href="https://github.com/patrickmgsos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickmgsos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmgsos&layout=compact&langs_count=6&theme=tokyonight"/>
 
