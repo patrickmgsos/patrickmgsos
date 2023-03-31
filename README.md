@@ -13,6 +13,7 @@
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="POWER BI" height="30" width="40" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
+  <img align="center" alt=" .NET" height="30" width="40" src="https://powerapps.microsoft.com/images/application-logos/svg/.net.svg">
 </div>
  
  <br>
